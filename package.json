@@ -1,0 +1,26 @@
+{
+  "name": "hubot-shinchoku",
+  "version": "0.0.1",
+  "description": "A hubot script to get random images from shinchokudodesuka.tumblr.com",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvers/hubot-shinchoku"
+  },
+  "keywords": [
+    "hubot",
+    "shinchoku"
+  ],
+  "author": "silvers <ofsilvers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silvers/hubot-shinchoku/issues"
+  },
+  "homepage": "https://github.com/silvers/hubot-shinchoku",
+  "dependencies": {
+    "tumblrbot": "~0.1.0"
+  }
+}
